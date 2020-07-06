@@ -1,5 +1,6 @@
 # Write a Data Science blog post
 Udacity Data Scientist Nanodegree Project.
+Git hub link : click [here](https://github.com/akshithpm/Data-Science-blog-post.git)
 
 ### Table of Contents
 
@@ -38,7 +39,7 @@ This is an Udacity Nanodegree project.I was interested in using Stackoverflow De
 **data/2018/survey_results_public.csv**: Stackoverflow's 2018 Annual Developer Survey data. </br>
 
 ## Results <a name="results"></a>
-The main findings of the code can be found at the post available [here](https://medium.com/@amalpm0011/common-programming-languages-used-in-brazil-a-case-study-ae9c09290671?sk=b9e47f728e08d8a3d4afe4e3cc50183e)
+The main findings of the code can be found at the post available [here](https://medium.com/@akshithpm558/programming-languages-used-in-brazils-computer-fields-4b214a15ed36?source=friends_link&sk=ec0de4210b089928f33b8684f91dfe77)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
